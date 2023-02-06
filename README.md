@@ -43,6 +43,8 @@ issue first before working on your idea. While we love input, we want to keep th
 As such, we may reject ideas for more advanced requests and don't want you to lose any work you might
 have done. So, ask first and we'll gladly hear your thoughts!
 
+## GOOD
+
 #commit1
 #commit2
 #commit3
