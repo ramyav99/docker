@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#comment
 set -e
 
 if [ $1 == "--push" ]; then
